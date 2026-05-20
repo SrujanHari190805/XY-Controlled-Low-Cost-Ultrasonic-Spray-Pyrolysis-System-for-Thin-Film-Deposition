@@ -123,14 +123,6 @@ The system is suitable for research-grade deposition of:
 
 ---
 
-## 📚 References
-
-Based on peer-reviewed literature on:
-- Ellmer, Klein & Rech — *Ultrasonic Spray Pyrolysis of Metal Oxide Thin Films*, Thin Solid Films, Elsevier, 2008
-- (Additional references available in the full project report)
-
----
-
 ## 👤 Author
 
 **Sri Srujan Hari T**
