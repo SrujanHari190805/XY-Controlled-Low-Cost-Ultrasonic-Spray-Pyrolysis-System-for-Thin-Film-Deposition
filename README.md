@@ -31,7 +31,7 @@ Commercial automated spray pyrolysis units are prohibitively expensive for acade
 
 This project addresses all these issues with an ultrasonic, open-source, CNC-driven approach.
 <p align="center">
-  <img src="images/full_system.jpg" alt="Full Spray Pyrolysis System" width="90%">
+  <img src="images/full_system.jpg" alt="Full Spray Pyrolysis System" width="500">
 </p>
 
 <p align="center">
@@ -57,7 +57,7 @@ This project addresses all these issues with an ultrasonic, open-source, CNC-dri
   Solvent evaporation → Thermal decomposition → Solid thin film
 ```
 <p align="center">
-  <img src="images/mini_project_block.drawio (1).png" alt="System Block Diagram" width="90%">
+  <img src="images/mini_project_block.drawio (1).png" alt="System Block Diagram" width="400">
 </p>
 
 <p align="center">
@@ -65,7 +65,7 @@ This project addresses all these issues with an ultrasonic, open-source, CNC-dri
 </p>
 
 <p align="center">
-  <img src="images/mini_project_flow.drawio (1).png" alt="Process Flow Diagram" width="85%">
+  <img src="images/mini_project_flow.drawio (1).png" alt="Process Flow Diagram" width="400">
 </p>
 
 <p align="center">
@@ -79,7 +79,7 @@ This project addresses all these issues with an ultrasonic, open-source, CNC-dri
 - **Motion pattern**: Programmable G-code raster scan — adjustable step size, overlap %, and scan area
 - **Purpose**: Ensures uniform precursor coverage across the entire substrate, not just the centre
 <p align="center">
-  <img src="images/heating_area.jpg" alt="Heating and Atomization Area" width="80%">
+  <img src="images/heating_area.jpg" alt="Heating and Atomization Area" width="400">
 </p>
 
 <p align="center">
@@ -87,58 +87,38 @@ This project addresses all these issues with an ultrasonic, open-source, CNC-dri
 </p>
 
 <p align="center">
-  <img src="images/nozzle_motion.jpg" alt="Nozzle Motion" width="85%">
+  <img src="images/nozzle_motion.jpg" alt="Nozzle Motion" width="400">
 </p>
 
 <p align="center">
    CNC-controlled nozzle movement used for precise raster scanning and uniform precursor deposition.
 </p>
 
-### Grid Motion
+<table align="center" cellspacing="10">
+  <tr>
+    <td align="center">
+      <img src="images/grid.drawio.png" width="320"><br>
+      <b>Grid Pattern</b>
+    </td>
 
-<p align="center">
-  <img src="images/grid.drawio.png" alt="Grid Scan Pattern" width="70%">
-</p>
+    <td align="center">
+      <img src="images/zigzag.drawio.png" width="320"><br>
+      <b>Zigzag Pattern</b>
+    </td>
+  </tr>
 
-<p align="center">
-   Grid-based raster scan pattern used for uniform coating deposition across the substrate.
-</p>
+  <tr>
+    <td align="center">
+      <img src="images/spiral.drawio.png" width="320"><br>
+      <b>Spiral Pattern</b>
+    </td>
 
----
-
-### Zigzag Motion
-
-<p align="center">
-  <img src="images/zigzag.drawio.png" alt="Zigzag Motion Pattern" width="70%">
-</p>
-
-<p align="center">
-   Zigzag scanning strategy for continuous deposition with reduced motion overhead.
-</p>
-
----
-
-### Spiral Motion
-
-<p align="center">
-  <img src="images/spiral.drawio.png" alt="Spiral Motion Pattern" width="70%">
-</p>
-
-<p align="center">
-   Spiral deposition path demonstrating alternative substrate coverage methodology.
-</p>
-
----
-
-### Loop Motion
-
-<p align="center">
-  <img src="images/loop.drawio.png" alt="Loop Motion Pattern" width="70%">
-</p>
-
-<p align="center">
-   Closed-loop motion trajectory for repeated localized thin-film deposition studies.
-</p>
+    <td align="center">
+      <img src="images/loop.drawio.png" width="320"><br>
+      <b>Loop Pattern</b>
+    </td>
+  </tr>
+</table>
 ---
 
 ## 🔧 Hardware Components
@@ -179,7 +159,7 @@ This project addresses all these issues with an ultrasonic, open-source, CNC-dri
 
 
 <p align="center">
-  <img src="images/interface.png" alt="Monitoring Interface" width="80%">
+  <img src="images/interface.png" alt="Monitoring Interface" width="400">
 </p>
 
 <p align="center">
