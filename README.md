@@ -94,30 +94,34 @@ This project addresses all these issues with an ultrasonic, open-source, CNC-dri
    CNC-controlled nozzle movement used for precise raster scanning and uniform precursor deposition.
 </p>
 
-<table align="center" cellspacing="10">
-  <tr>
-    <td align="center">
-      <img src="images/grid.drawio.png" width="320"><br>
-      <b>Grid Pattern</b>
-    </td>
+<table align="center">
+<tr>
+<td align="center">
+<img src="images/grid.drawio.png" width="300"/>
+<br>
+<b>Grid Pattern</b>
+</td>
 
-    <td align="center">
-      <img src="images/zigzag.drawio.png" width="320"><br>
-      <b>Zigzag Pattern</b>
-    </td>
-  </tr>
+<td align="center">
+<img src="images/zigzag.drawio.png" width="300"/>
+<br>
+<b>Zigzag Pattern</b>
+</td>
+</tr>
 
-  <tr>
-    <td align="center">
-      <img src="images/spiral.drawio.png" width="320"><br>
-      <b>Spiral Pattern</b>
-    </td>
+<tr>
+<td align="center">
+<img src="images/spiral.drawio.png" width="300"/>
+<br>
+<b>Spiral Pattern</b>
+</td>
 
-    <td align="center">
-      <img src="images/loop.drawio.png" width="320"><br>
-      <b>Loop Pattern</b>
-    </td>
-  </tr>
+<td align="center">
+<img src="images/loop.drawio.png" width="300"/>
+<br>
+<b>Loop Pattern</b>
+</td>
+</tr>
 </table>
 ---
 
