@@ -57,7 +57,7 @@ This project addresses all these issues with an ultrasonic, open-source, CNC-dri
   Solvent evaporation → Thermal decomposition → Solid thin film
 ```
 <p align="center">
-  <img src="images/mini_project_block.drawio (1).png" alt="System Block Diagram" width="400">
+  <img src="images/mini_project_block.drawio (1).png" alt="System Block Diagram" width="700">
 </p>
 
 <p align="center">
