@@ -198,9 +198,9 @@ The system is suitable for research-grade deposition of:
 
 ## 👥 Team — Spatika
 
-| Name | 
-|---|
-| Sri Srujan Hari T | 
-| Tarun Patil | 
-| Nitish K S | 
-| Harshitha K V | 
+| Name | Affiliation |
+|---|---|
+| Sri Srujan Hari T | ECE, BMSITM |
+| Tarun Patil | ECE, BMSITM |
+| Nitish K S | ECE, BMSITM |
+| Harshitha K V | ECE, BMSITM |
