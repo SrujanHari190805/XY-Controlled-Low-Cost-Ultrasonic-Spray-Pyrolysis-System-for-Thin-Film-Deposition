@@ -196,13 +196,11 @@ The system is suitable for research-grade deposition of:
 
 ---
 
-## 👤 Author
+## 👥 Team — Spatika
 
-**Sri Srujan Hari T**
-ECE, BMSIT&M | 2025
-**Tarun Patil**
-ECE, BMSIT&M | 2025
-**Nitish K S**
-ECE, BMSIT&M | 2025
-**Harshitha K V**
-ECE, BMSIT&M | 2025
+| Name | 
+|---|
+| Sri Srujan Hari T | 
+| Tarun Patil | 
+| Nitish K S | 
+| Harshitha K V | 
